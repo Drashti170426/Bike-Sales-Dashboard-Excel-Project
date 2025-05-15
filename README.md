@@ -1,0 +1,1 @@
+This a simple excel project that includes data cleaning, data sorting and data visualization. It consists of the pivot tables as well as a detailed dashboard created on to explain the data to the users by visualizing through different pivot graphs.
